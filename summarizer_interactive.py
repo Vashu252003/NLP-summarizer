@@ -136,7 +136,7 @@ def main():
     input_file_path = 'article.txt'
     
     # Choose your method: 'extractive' or 'abstractive'
-    summarization_method = 'abstractive'
+    summarization_method = 'extractive'
     
     # Set an output file, or set it to None to print to the console
     output_file_path = None 
