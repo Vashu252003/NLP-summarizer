@@ -1,0 +1,5 @@
+Overleaf is software for running a collaborative cloud-based LaTeX editor used for writing, editing and publishing scientific documents. More precisely, the term "Overleaf" may refer to the free-licensed software itself, to the main website running a proprietary version of the software, or to the organisation hosting the website running the proprietary software version.[1][2][3]
+
+The Overleaf organisation works with several scientific publishers to provide official journal LaTeX templates and direct submission links.
+The Overleaf software was conceived by John Hammersley and John Lees-Miller, who started developing it in 2011[7] as WriteLaTeX, through their company WriteLaTeX Limited.[8][9][10][11][12] Both are mathematicians and were inspired by their own experiences in academia to create a better solution for collaborative scientific writing.[13][14] They launched a beta version of Overleaf on 16 January 2014, at the first #FuturePub event, held at the British Library in London.[15][16]
+After merging with ShareLaTeX in 2017, the developers released Overleaf v2, combining original features from both into a single cloud-based platform

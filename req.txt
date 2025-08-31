@@ -1,0 +1,11 @@
+# Core NLP libraries
+nltk
+scikit-learn
+
+# Abstractive summarization libraries
+transformers
+torch
+sentencepiece
+
+# A common dependency, good to list explicitly
+numpy
