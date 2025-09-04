@@ -75,8 +75,13 @@ textarea::placeholder {
 
 """)
 
-import nltk
+
 from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
+nltk.download('punkt', quiet=True)
+nltk.download('stopwords', quiet=True)
+
+
 from nltk.tokenize import sent_tokenize
 
 # PDF text extraction
