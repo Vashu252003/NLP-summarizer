@@ -9,3 +9,7 @@ sentencepiece
 
 # A common dependency, good to list explicitly
 numpy
+
+# streamlit
+streamlit
+PyPDF2
