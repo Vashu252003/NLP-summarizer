@@ -1,5 +1,4 @@
 # Core NLP libraries
-nltk
 scikit-learn
 
 # Abstractive summarization libraries
@@ -13,3 +12,4 @@ numpy
 # streamlit
 streamlit
 PyPDF2
+nltk
